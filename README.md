@@ -5,17 +5,17 @@
   <table>
     <tr>
       <td align="center" width="170">
-        <img src="./Bland%20premere%20pro%20icon.png" width="70" alt="Premiere Pro" /><br />
+        <img src="./Bland%20premere%20pro%20icon.png" width="80" alt="Premiere Pro" /><br />
         <b>Pro Video Editor</b><br />
         <sub>Premiere Pro</sub>
       </td>
       <td align="center" width="170">
-        <img src="./bland%20photoshop%20icon.png" width="80" alt="Photoshop" /><br />
+        <img src="./bland%20photoshop%20icon.png" width="90" alt="Photoshop" /><br />
         <b>Thumbnail Designer</b><br />
         <sub>Photoshop</sub>
       </td>
       <td align="center" width="170">
-        <img src="./Bland%20fl%20studio%20icon.png" width="60" alt="FL Studio" /><br />
+        <img src="./Bland%20fl%20studio%20icon.png" width="70" alt="FL Studio" /><br />
         <b>Sound Designer</b><br />
         <sub>FL Studio</sub>
       </td>
