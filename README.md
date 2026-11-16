@@ -1,7 +1,7 @@
 
 <div align="center">
   <img width="200" alt="logo-spin-transparent Shiny" src="./logo-spin-transparent%20Shiny.gif" />
-  <h1>Hi my Name is SomeDude 👋😄</h1>
+  <h1>Hi my Name is SomeDude 👋😁</h1>
 
   <table>
     <tr>
@@ -33,32 +33,24 @@
 
   <br />
 
-  <h2>✨ About Me</h2>
+  <h2> 💮 About Me 💮</h2>
 
   <p>
     Hey! I'm <b>SomeDude</b>, a creative editor and designer
-    who enjoys turning ideas into visually appealing content.
   </p>
 
   <p>
     I specialize in <b>video editing</b>,
     <b>thumbnail design</b>, and <b>sound design</b>.
-    I'm always looking for ways to improve my creativity
-    and develop new skills.
+    And i've been doing this for <b>4 years</b>.
   </p>
 
-  <h2>🔥 What I Do</h2>
-
-  <p>
-    🎬 <b>Video Editing</b> — Creating engaging videos.<br />
-    🎨 <b>Thumbnail Design</b> — Designing eye-catching thumbnails.<br />
-    🎧 <b>Sound Design</b> — Making audio more immersive.
-  </p>
+  <h2> 🤑 What I Do 🤑</h2>
 
   <br />
 
   <p>
-    <b>Thanks for visiting my profile! ❤️</b>
+    <b> <h1> -SD </b>
   </p>
 
 </div>
