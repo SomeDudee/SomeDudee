@@ -1,3 +1,4 @@
+
 <div align="center">
   <img width="200" alt="logo-spin-transparent Shiny" src="./logo-spin-transparent%20Shiny.gif" />
   <h1>Hi my Name is SomeDude 👋😄</h1>
@@ -29,4 +30,35 @@
       <img src="https://img.shields.io/badge/Portfolio-Behance-18181b?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
   </p>
+
+  <br />
+
+  <h2>✨ About Me</h2>
+
+  <p>
+    Hey! I'm <b>SomeDude</b>, a creative editor and designer
+    who enjoys turning ideas into visually appealing content.
+  </p>
+
+  <p>
+    I specialize in <b>video editing</b>,
+    <b>thumbnail design</b>, and <b>sound design</b>.
+    I'm always looking for ways to improve my creativity
+    and develop new skills.
+  </p>
+
+  <h2>🔥 What I Do</h2>
+
+  <p>
+    🎬 <b>Video Editing</b> — Creating engaging videos.<br />
+    🎨 <b>Thumbnail Design</b> — Designing eye-catching thumbnails.<br />
+    🎧 <b>Sound Design</b> — Making audio more immersive.
+  </p>
+
+  <br />
+
+  <p>
+    <b>Thanks for visiting my profile! ❤️</b>
+  </p>
+
 </div>
