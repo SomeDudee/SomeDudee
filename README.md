@@ -27,7 +27,7 @@
 
   <p>
     <a href="https://www.behance.net/DrippySD">
-      <img src="https://img.shields.io/badge/Portfolio-Behance-18181b?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+      <img src="https://img.shields.io/badge/Portfolio-Behance-CB4444?style=for-the-badge&logo=behance&logoColor=F5E6CC" alt="Behance" />
     </a>
   </p>
 
