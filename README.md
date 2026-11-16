@@ -44,13 +44,12 @@
     <b>thumbnail design</b>, and <b>sound design</b>.
     And i've been doing this for <b>4 years</b>.
   </p>
-
-  <h2> 🤑 What I Do 🤑</h2>
+    <hr width="60%" />
 
   <br />
 
-  <p>
-    <b> <h1> -SD </b>
-  </p>
+  <img src="./SD PFP LOGO.png" width="140" alt="My artwork" />
+
+  <br />
 
 </div>
